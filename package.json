@@ -1,0 +1,9 @@
+{
+  "name": "pipeline-test-app",
+  "version": "1.0.0",
+  "description": "Minimal app for testing deployment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
